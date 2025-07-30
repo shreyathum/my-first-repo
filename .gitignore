@@ -2,7 +2,7 @@
 #specifies the name(s) of other files that we DON'T want to track in version control 
 # clutter files / cached files 
 
-# __pycache__ 
+__pycache__ 
 # .DS_Store
 
 # secret credentials 
