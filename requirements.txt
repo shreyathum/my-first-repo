@@ -5,3 +5,10 @@
 
 pytest 
 
+# packages used in app 
+flask
+
+
+# packages used on the production server 
+gunicorn
+

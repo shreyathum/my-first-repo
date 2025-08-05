@@ -39,3 +39,15 @@ Run the tests:
 pytest
 ```
 
+### Web App
+Run the web app
+
+```sh
+FLASK_APP=web_app flask run
+```
+
+Visit in the browser, either:
++ http://127.0.0.1:5000
+  + http://localhost:5000/
+
+
