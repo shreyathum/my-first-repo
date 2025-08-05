@@ -9,3 +9,6 @@ pytest
 flask
 
 
+# packages used on the production server 
+gunicorn
+
